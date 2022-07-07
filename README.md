@@ -5,7 +5,6 @@ Employee Database using SQL
 1. Create and use database in SQL.
 2. Import CSV datasets into pgAdmin.
 3. Create tables on PG admin
-4. 
 ## Overview: 
 
 Due to the concern of a silver tsunami where a great number of employees were retiring creating a great number of empty jobs, we were tasked to create SQL queries to generate the list of retiring employees and other that qualified for mentorship
