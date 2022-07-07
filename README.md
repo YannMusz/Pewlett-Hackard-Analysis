@@ -13,7 +13,7 @@ Employee Database with SQL
 After reviewing the employee files for Pewlett Hackard, an entity relationship diagram was created using quick database diagrams to gather and organize the key elements from various data tables.  The data was imported using postgres and the pgAdmin interface.  SQL queries were written to create data tables by joining primary keys from different data sets together and establishing foreign keys.  The leadership is concerned about a "silver tsunami," where there is a mass exodus of retiring employees creating a massive amount of job vacancies.  SQL queries were created to generate a list of retiring employees by title and a list of employees eligible for mentorship.    
 
 Employee database relationship diagram for Pewlett Hackard:
-![Pic 1](https://github.com/YannMusz/Pewlett_Hackard_Analysis/blob/main/Analysis_Projects/HP_Analysis/Challenge_Documents/EmployeeDB.png)
+![Pic 1](https://github.com/YannMusz/Pewlett_Hackard_Analysis/Analysis_Projects/HP_Analysis/Challenge_Documents/EmployeeDB.png)
 
 ## Results: 
 
